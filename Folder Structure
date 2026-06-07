@@ -1,0 +1,31 @@
+android_dev_portfolio/
+├── lib/
+│   ├── models/
+│   │   └── project.dart
+│   ├── data/
+│   │   └── sample_projects.dart
+│   ├── app/
+│   │   └── portfolio_app.dart
+│   ├── features/
+│   │   ├── home/
+│   │   │   └── home_page.dart
+│   │   └── projects/
+│   │       └── project_detail_page.dart
+│   ├── shared/
+│   │   ├── widgets/
+│   │   │   ├── app_scaffold.dart
+│   │   │   ├── responsive_layout.dart
+│   │   │   └── section_title.dart
+│   │   └── utils/
+│   │       └── url_utils.dart
+├── assets/
+│   ├── screenshots/
+│   │   ├── video_player_1.png
+│   │   ├── video_player_2.png
+│   │   └── ... (add your 15+ screenshots)
+│   └── images/
+│       └── profile.png
+├── pubspec.yaml
+├── README.md
+├── .gitignore
+├── LICENSE
