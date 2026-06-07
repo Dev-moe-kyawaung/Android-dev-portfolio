@@ -17,7 +17,7 @@ A high-conversion Flutter portfolio showcasing 5 top Android projects with techn
 1. Install Flutter 3.0+
 2. Clone repo:
    ```bash
-   git clone https://github.com/Moekyawaung/portfolio
+   git clone https://github.com/Dev-Moe-kyawaung/Android-dev-portfolio
    cd portfolio
 
    Install dependencies:
